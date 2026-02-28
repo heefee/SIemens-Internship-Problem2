@@ -1,0 +1,14 @@
+C:\Users\hefi\RiderProjects\SiemensIntershipAssigmnent\obj\Debug\net8.0\SiemensIntershipAssigmnent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hefi\RiderProjects\SiemensIntershipAssigmnent\obj\Debug\net8.0\SiemensIntershipAssigmnent.AssemblyInfoInputs.cache
+C:\Users\hefi\RiderProjects\SiemensIntershipAssigmnent\obj\Debug\net8.0\SiemensIntershipAssigmnent.AssemblyInfo.cs
+C:\Users\hefi\RiderProjects\SiemensIntershipAssigmnent\obj\Debug\net8.0\SiemensIntershipAssigmnent.csproj.CoreCompileInputs.cache
+C:\Users\hefi\RiderProjects\SiemensIntershipAssigmnent\bin\Debug\net8.0\SiemensIntershipAssigmnent.exe
+C:\Users\hefi\RiderProjects\SiemensIntershipAssigmnent\bin\Debug\net8.0\SiemensIntershipAssigmnent.deps.json
+C:\Users\hefi\RiderProjects\SiemensIntershipAssigmnent\bin\Debug\net8.0\SiemensIntershipAssigmnent.runtimeconfig.json
+C:\Users\hefi\RiderProjects\SiemensIntershipAssigmnent\bin\Debug\net8.0\SiemensIntershipAssigmnent.dll
+C:\Users\hefi\RiderProjects\SiemensIntershipAssigmnent\bin\Debug\net8.0\SiemensIntershipAssigmnent.pdb
+C:\Users\hefi\RiderProjects\SiemensIntershipAssigmnent\obj\Debug\net8.0\SiemensIntershipAssigmnent.dll
+C:\Users\hefi\RiderProjects\SiemensIntershipAssigmnent\obj\Debug\net8.0\refint\SiemensIntershipAssigmnent.dll
+C:\Users\hefi\RiderProjects\SiemensIntershipAssigmnent\obj\Debug\net8.0\SiemensIntershipAssigmnent.pdb
+C:\Users\hefi\RiderProjects\SiemensIntershipAssigmnent\obj\Debug\net8.0\SiemensIntershipAssigmnent.genruntimeconfig.cache
+C:\Users\hefi\RiderProjects\SiemensIntershipAssigmnent\obj\Debug\net8.0\ref\SiemensIntershipAssigmnent.dll
