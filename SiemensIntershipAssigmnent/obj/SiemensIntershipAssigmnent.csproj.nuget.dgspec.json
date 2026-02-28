@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hefi\\RiderProjects\\SiemensIntershipAssigmnent\\SiemensIntershipAssigmnent.csproj": {}
+    "C:\\Users\\hefi\\RiderProjects\\SIemens-Internship-Problem2\\SiemensIntershipAssigmnent\\SiemensIntershipAssigmnent.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hefi\\RiderProjects\\SiemensIntershipAssigmnent\\SiemensIntershipAssigmnent.csproj": {
+    "C:\\Users\\hefi\\RiderProjects\\SIemens-Internship-Problem2\\SiemensIntershipAssigmnent\\SiemensIntershipAssigmnent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hefi\\RiderProjects\\SiemensIntershipAssigmnent\\SiemensIntershipAssigmnent.csproj",
+        "projectUniqueName": "C:\\Users\\hefi\\RiderProjects\\SIemens-Internship-Problem2\\SiemensIntershipAssigmnent\\SiemensIntershipAssigmnent.csproj",
         "projectName": "SiemensIntershipAssigmnent",
-        "projectPath": "C:\\Users\\hefi\\RiderProjects\\SiemensIntershipAssigmnent\\SiemensIntershipAssigmnent.csproj",
+        "projectPath": "C:\\Users\\hefi\\RiderProjects\\SIemens-Internship-Problem2\\SiemensIntershipAssigmnent\\SiemensIntershipAssigmnent.csproj",
         "packagesPath": "C:\\Users\\hefi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hefi\\RiderProjects\\SiemensIntershipAssigmnent\\obj\\",
+        "outputPath": "C:\\Users\\hefi\\RiderProjects\\SIemens-Internship-Problem2\\SiemensIntershipAssigmnent\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

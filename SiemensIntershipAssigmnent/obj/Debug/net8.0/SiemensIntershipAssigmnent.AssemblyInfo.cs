@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SiemensIntershipAssigmnent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20b91e4697e4cc6fedd07b4738e0922d2541ff04")]
 [assembly: System.Reflection.AssemblyProductAttribute("SiemensIntershipAssigmnent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SiemensIntershipAssigmnent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
